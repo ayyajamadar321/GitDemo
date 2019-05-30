@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="30" started-at="2019-04-15T13:39:02Z" finished-at="2019-04-15T13:39:02Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="30" started-at="2019-04-15T13:39:02Z" finished-at="2019-04-15T13:39:02Z">
+      <class name="qaclickacademy.Testng3Test">
+        <test-method status="PASS" signature="Internetexplorer()[pri:0, instance:qaclickacademy.Testng3Test@17550481]" name="Internetexplorer" duration-ms="0" started-at="2019-04-15T13:39:02Z" finished-at="2019-04-15T13:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Internetexplorer -->
+      </class> <!-- qaclickacademy.Testng3Test -->
+      <class name="qaclickacademy.TestngTest">
+        <test-method status="PASS" signature="Morning()[pri:0, instance:qaclickacademy.TestngTest@735f7ae5]" name="Morning" duration-ms="1" started-at="2019-04-15T13:39:02Z" finished-at="2019-04-15T13:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Morning -->
+      </class> <!-- qaclickacademy.TestngTest -->
+      <class name="qaclickacademy.Testng2Test">
+        <test-method status="PASS" signature="Mobile()[pri:0, instance:qaclickacademy.Testng2Test@783e6358]" name="Mobile" is-config="true" duration-ms="11" started-at="2019-04-15T13:39:02Z" finished-at="2019-04-15T13:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobile -->
+        <test-method status="PASS" signature="Mozila()[pri:0, instance:qaclickacademy.Testng3Test@17550481]" name="Mozila" is-config="true" duration-ms="1" started-at="2019-04-15T13:39:02Z" finished-at="2019-04-15T13:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mozila -->
+        <test-method status="PASS" signature="Night()[pri:0, instance:qaclickacademy.TestngTest@735f7ae5]" name="Night" is-config="true" duration-ms="0" started-at="2019-04-15T13:39:02Z" finished-at="2019-04-15T13:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Night -->
+        <test-method status="PASS" signature="Desktop()[pri:0, instance:qaclickacademy.Testng2Test@783e6358]" name="Desktop" duration-ms="1" started-at="2019-04-15T13:39:02Z" finished-at="2019-04-15T13:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Desktop -->
+        <test-method status="PASS" signature="Googlechrome()[pri:0, instance:qaclickacademy.Testng3Test@17550481]" name="Googlechrome" is-config="true" duration-ms="0" started-at="2019-04-15T13:39:02Z" finished-at="2019-04-15T13:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Googlechrome -->
+        <test-method status="PASS" signature="Afternoon()[pri:0, instance:qaclickacademy.TestngTest@735f7ae5]" name="Afternoon" is-config="true" duration-ms="1" started-at="2019-04-15T13:39:02Z" finished-at="2019-04-15T13:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Afternoon -->
+        <test-method status="PASS" signature="Laptop()[pri:0, instance:qaclickacademy.Testng2Test@783e6358]" name="Laptop" is-config="true" duration-ms="0" started-at="2019-04-15T13:39:02Z" finished-at="2019-04-15T13:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Laptop -->
+      </class> <!-- qaclickacademy.Testng2Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
